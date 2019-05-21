@@ -1,0 +1,4 @@
+discharge_pt: row_i 61 col_i 5
+boundary_condition_pt: row_i 62 col_i 4
+boundary_condition_pt: row_i 61 col_i 4
+boundary_condition_pt: row_i 62 col_i 5
